@@ -93,4 +93,8 @@ Developed as part of an Evolutionary Computing assignment to demonstrate Genetic
 
  Repository:
 
-[GitHub – SolarSynapse](https://github.com/runi619/SolarSynapse)
+[GitHub – SolarSynapse](https://github.com/runi619/SolarSynapse) 
+
+ Dashboard Preview
+
+![SolarSynapse Dashboard](screenshots/dashboard.png)
