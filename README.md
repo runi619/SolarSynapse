@@ -97,4 +97,4 @@ Developed as part of an Evolutionary Computing assignment to demonstrate Genetic
 
  Dashboard Preview
 
-![SolarSynapse Dashboard](screenshots/dashboard.png)
+![SolarSynapse Dashboard](Screenshots/dashboard1.png.png)
